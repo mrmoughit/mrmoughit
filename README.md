@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mrmoughit
-- 👀 I’m interested in cyber security
-- 🌱 I’m currently learning at 1337
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Abdelmoughit Echcharbiny
+-  I’m Software Devlopper
+-  I’m currently learning at 1337
+-  How to reach me ...
 
 <!---
 mrmoughit/mrmoughit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
